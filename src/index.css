@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+body{
+background-color: #74d5eb;
+
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
